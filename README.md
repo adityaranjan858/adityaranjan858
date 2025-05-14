@@ -17,6 +17,6 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="42" height="42" /></a></p>
 
 <h2>⚡️ You can also find me on...</h2>
-<a target="_blank" href="https://www.linkedin.com/in/aditya-ranjan-7b1785203/" style="display: inline-block;">
+<a target="_blank" href="https://www.linkedin.com/in/aditya-r-7b1785203" style="display: inline-block;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="42" height="42" />
 </a>
